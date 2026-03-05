@@ -1,0 +1,9 @@
+torch>=2.0
+numpy
+scipy
+matplotlib
+pandas
+tqdm
+pyyaml
+wandb
+plotly
