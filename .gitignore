@@ -1,0 +1,19 @@
+# Python
+**/*.pyc
+__pycache__/
+
+# Data
+.cache/data
+data/
+*.zip
+
+# Checkpoints
+checkpoints*/
+
+# Logs
+wandb/
+*.log
+
+# Large / private files
+*.pdf
+*.org
